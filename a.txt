@@ -4,3 +4,6 @@ Will this file show the changes applied?
 
 
 ab?
+
+new change added
+changed after gid add .
